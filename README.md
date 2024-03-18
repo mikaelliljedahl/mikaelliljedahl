@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikaelliljedahl
 - 👀 I’m interested in .Net development
-- 🌱 I’m currently CTO in a fintech company
+- 🌱 I’m currently a freelance .Net developer/system architect
 - 💞️ I’m looking to collaborate on support libraries useful in most business. Working on a project to create a .Net based SFTP server with a web admin GUI (Blazor based) as a hobby project.
 - 📫 How to reach me mliljedahl@gmail.com
 
