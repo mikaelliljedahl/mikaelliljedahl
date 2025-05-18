@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikaelliljedahl
 - 👀 I’m interested in .Net development
 - 🌱 I’m currently a freelance .Net developer/system architect
-- 💞️ I’m looking to collaborate on support libraries useful in most business. Working on a project to create a .Net based SFTP server with a web admin GUI (Blazor based) as a hobby project.
+- 💞️ I’m looking to collaborate on support libraries useful in business. Currently exploring ways to call MCP servers from a Blazor app, useful in e.g. software development (similar to Cursor)
 - 📫 How to reach me mliljedahl@gmail.com
 
 <!---
